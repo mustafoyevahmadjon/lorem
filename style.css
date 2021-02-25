@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div:hover::before{
+    content: "<<";
+}
+div:hover::after{
+    content: ">>";
+}
+.row1
+{
+    margin-left: 14px;
+}
+.row
+{
+    margin-left: 11px;
+}
+.row:hover
+{
+    color: aqua;
+}
+.row2
+{
+    margin-left: 99px;
+}
+.row2:hover
+{
+    color: darkgreen;
+}
+.row3
+{
+    margin-left: 190px;
+}
+.row3:hover
+{
+    color: red;
+}
+.row4
+{
+    margin-left: 260px;
+}
+.row4:hover
+{
+    color: goldenrod;
+}
+.row5
+{
+    margin-left: 320px;
+}
+.row5:hover
+{
+    color: green;
+}
+.row6
+{
+    margin-left: 400px;
+}
+.row6:hover
+{
+    color: hotpink;
+}
+.row7
+{
+    margin-left: 500px;
+}
+.row7:hover
+{
+    color: purple;
+}
+.row8
+{
+    margin-left: 615px;
+}
+.row8:hover
+{
+    color: maroon;
+}
+.row9
+{
+    margin-left: 666px;
+}
+.row9:hover
+{
+    color: orangered;
+}
